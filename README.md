@@ -20,7 +20,7 @@ The goal today is to create a visualization that has a few parts to it. In parti
 Create a figure and insert two axes objects into that figure. How you want to do that or how you want to orient or size the axes relative to one another is completely up to you. Make sure you give the axes (and figure) names (or handles) so that you can access them later!
 
 #### Part B)
-Construct two lists which contain the x and y values to plot the function $\frac{\sin(x)}{x}$ from -10 to 10. You should choose your intervals between points to be small enough so that the curve will look smooth. Add this plot to the first of your axes. Make it a dashed green line with a width of 3.
+Construct two lists which contain the x and y values to plot the function sin(x)/x from -10 to 10. You should choose your intervals between points to be small enough so that the curve will look smooth. Add this plot to the first of your axes. Make it a dashed green line with a width of 3.
 
 _Warning: If your sequence of x values includes exactly 0, this function will explode! So make sure it does not!_
 
