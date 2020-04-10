@@ -13,7 +13,7 @@ _For practice today, even if you are a whizz at using the `numpy` library, pleas
 
 ## Instructions
 The goal today is to create a visualization that has a few parts to it. In particular, we want to make a single figure that holds two axes objects (how they are oriented is completely up to you) which will plot:
-* $\frac{\sin(x)}{x}$ over the interval -10 to 10
+* sin(x)/x over the interval -10 to 10
 * The Fibonnacci sequence over the first 20 terms
 
 #### Part A)
